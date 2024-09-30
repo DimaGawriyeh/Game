@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# Maven specifics
+target/
+*.jar
+*.zip
